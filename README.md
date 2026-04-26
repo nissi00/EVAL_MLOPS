@@ -1,5 +1,12 @@
 # Prédiction des Prix Immobiliers avec Snowflake
 
+## Membre du groupe
+
+-  nissi christ emmanuel ETIEN
+- Christ Antony TCHOKOGUEU
+- Cédric BOIMIN
+- David ATCHORI
+
 ## Description
 
 Ce projet a été réalisé dans le cadre du workshop **Data Engineering et Machine Learning avec Snowflake**.
@@ -149,11 +156,6 @@ Une application **Streamlit in Snowflake** permet aux utilisateurs métier d'int
 
 ---
 
-## Auteurs
 
-- [Membre 1]
-- [Membre 2]
-- [Membre 3]
-- [Membre 4]
 
 
